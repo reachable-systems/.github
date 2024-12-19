@@ -1,4 +1,4 @@
-<h1><img src="assets/logo-name-outlined.svg" alt="Reach" width="55%"></h1>
+<h1><img src="https://raw.githubusercontent.com/reach-rs/.github/refs/heads/main/assets/logo-name-outlined.svg" alt="Reach" width="55%"></h1>
 
 _Reach_ is an end-to-end encrypted communication platform designed for collaborative groups who wish
 to let anonymous individuals reach out to them with information and/or requests. It is engineered
