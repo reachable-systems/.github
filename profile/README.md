@@ -9,5 +9,5 @@ themselves as much as the people who contact them.
 
 Development happens in Codeberg, and this GitHub organisation only exists to host a few integrations.
 
-- Codeberg: https://codeberg.org/reach
+- Codeberg: https://codeberg.org/reachable-systems
 - Mastodon: `@reach@floss.social`
